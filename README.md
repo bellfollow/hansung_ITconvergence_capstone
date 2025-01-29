@@ -267,6 +267,3 @@ Describe like this example. example : breathtaking origami, close up portrait of
 
 ![](https://velog.velcdn.com/images/bellfollow/post/e00364f1-338f-4357-a0f7-d8d6fd9cd6e8/image.png)
 
-
-# 후기
-> 프로젝트의 완성도가 생각한것과 좀 달라서 좀 더 발전시키고 싶은 마음이 큽니다. 그래도 열심히 했으니 좀 더 공부해서 더 나은 결과를 만들고 싶네요
